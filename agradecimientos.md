@@ -1,1 +1,1 @@
-JEFR acknowledges support from COLCIENCIAS Contract No. 287-2016, Project 1204-712-50459.
+JEFR acknowledges support from COLCIENCIAS Contract No. 287-2016, Project 1204-712-50459 and from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 734374 (Project acronym: LACEGAL).
